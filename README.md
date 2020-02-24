@@ -1,3 +1,3 @@
 # gruvbox-material-kitty
 
-A port of the [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) color scheme for [kitty](https://github.com/kovidgoyal/kitty).
+A port of @sainnhe's [Gruvbox Material](https://github.com/gruvbox-material/gruvbox-material/) theme for Kitty.
